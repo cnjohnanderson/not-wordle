@@ -31,7 +31,7 @@ export const ORTHOGRAPHY = [
   'w',
   'x',
   'y',
-  'z'
+  'z',
 ]
 
 if (CONFIG.normalization) {
