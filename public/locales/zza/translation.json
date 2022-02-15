@@ -11,7 +11,7 @@
     "pickYourLanguage": "Ziwanêk weçîne",
     "correctSpotInstructions": "Herfa W zereyê çekuye de û cayo raşt der a.",
     "wrongSpotInstructions": "Herfa L zereyê çekuye de, la cayo xelet der a.",
-    "notInWordInstructions": "Herfa U qet yew cayê çekuye de çin a.",
+    "notInWordInstructions": "Herfa A qet yew cayê çekuye de çin a.",
     "guessDistribution": "Vilabîyayîşê Texmînan",
     "statistics": "Statîstîkî",
     "totalTries": "Pêro Ceribnayîşî",
@@ -43,6 +43,6 @@
     ],
     "aboutAuthorSentence": "No klonê çimeyê serbestî yê kayê Wordle yo ke hetê <3>{{author}}</3> ra çarnîya {{language}} ser. ",
     "aboutCodeSentence": "Qayîtê <1>kodê orîjînalî</1> yê <3>Hannah Park</3> bike yan zî forkê <5>Aidan Pineyî</5> ra biewnî û yewna ziwanî rê eyar bike! ",
-    "aboutDataSentence": "Çimeyê çekuyan <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "Ti eşkenî/a orîjînalê ci zî kay bikerê  <1>here</1>"
+    "aboutDataSentence": "Çimeyê çekuyan <1>{{wordListSource}}</1> yo. ",
+    "aboutOriginalSentence": "Ti eşkenî/a orîjînalê ci kî kay bikerê  <1>here</1>"
 }
