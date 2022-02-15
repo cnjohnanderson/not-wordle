@@ -903,7 +903,7 @@ export const VALIDGUESSES = [
   'derse',
   'merge',
   'kamca',
-  'qayîş'
+  'qayîş',
 ]
 
 if (CONFIG.normalization) {
