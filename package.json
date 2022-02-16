@@ -2,7 +2,7 @@
     "name": "Wordle-Zazaki",
     "version": "0.1.0",
     "homepage": "https://kirmancperwer.github.io/Wordle-Zazaki",
-    "private": true,
+    "private": false,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
         "@headlessui/react": "^1.4.2",
