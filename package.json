@@ -1,7 +1,7 @@
 {
     "name": "Wordle-Zazaki",
     "version": "0.1.0",
-    "homepage": "https://kirmancperwer.github.io/Wordle-Zazaki",
+    "homepage": "https://wordle-zazaki.com",
     "private": false,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
@@ -33,7 +33,7 @@
         "deploy": "gh-pages -d build",
         "fix": "prettier --write src",
         "lint": "prettier --check src",
-        "build": "react-scripts build",
+        "build": "react-scripts build && echo 'wordle-zazaki.com' > ./build/CNAME",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "prepare": "husky install"
